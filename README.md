@@ -18,3 +18,5 @@ A passionate learner exploring programming and web development!
 - VS Code (1 month, Beginner)
 
 ## Stats 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikuto
+)](https://github.com/anuraghazra/github-readme-stats)
