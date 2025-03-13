@@ -1,9 +1,12 @@
 # Hi! Welcome to My GitHub! 👋
-### About Me
-A passionate learner exploring programming and web development!
+- **name**: Rikuto
+- **gender**: He/Him
+- **location** Hokkaido, Japan
+- **profession** Beginner in programming
+- **hobbies** Reading, Gaming, Programming, Walking
+
 
 ## Skills 🛠️
-
 ### Languages & Runtimes 🐈
 - Python (1 month, Beginner)
 - HTML/CSS (1 month, Beginner)
@@ -18,3 +21,4 @@ A passionate learner exploring programming and web development!
 - VS Code (1 month, Beginner)
 
 ## Stats 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikuto)](https://github.com/anuraghazra/github-readme-stats)
