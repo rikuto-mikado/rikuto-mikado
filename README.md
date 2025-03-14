@@ -19,6 +19,3 @@
 
 ### Tools ⚙️
 - VS Code (1 month, Beginner)
-
-## Stats 📊
-
