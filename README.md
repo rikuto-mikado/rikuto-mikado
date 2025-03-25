@@ -11,10 +11,10 @@
 - Python (1 month, Beginner)
 - HTML/CSS (1 month, Beginner)
 - Javascript (Planning to learn)
-- Node.js (Planning to learn)
+- Node.js (1 month, beginner)
 
 ### Technologies 🌐
-- React (Planning to learn)
+- React (1 month, Beginner)
 - AWS (Planning to learn)
 
 ### Tools ⚙️
