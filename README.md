@@ -10,7 +10,7 @@
 ### Languages & Runtimes 🐈
 - Python (1 month, Beginner)
 - HTML/CSS (1 month, Beginner)
-- Javascript (Planning to learn)
+- Javascript (1 month, Beginner)
 - Node.js (1 month, beginner)
 
 ### Technologies 🌐
