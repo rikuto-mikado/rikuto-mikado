@@ -12,6 +12,7 @@
 - HTML/CSS (1 month, Beginner)
 - Javascript (1 month, Beginner)
 - Node.js (1 month, beginner)
+- SQL (1 month, beginner)
 
 ### Technologies 🌐
 - React (1 month, Beginner)
