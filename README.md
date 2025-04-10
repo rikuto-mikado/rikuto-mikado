@@ -1,9 +1,9 @@
 # Hi! Welcome to My GitHub! 👋
 - **name**: Rikuto
 - **gender**: He/Him
-- **location** Hokkaido, Japan
-- **profession** Beginner in programming
-- **hobbies** reading, gaming, programming, walking, traveling, sleeping, etc.
+- **location**: Hokkaido, Japan
+- **profession**: Beginner in programming
+- **hobbies**: reading, gaming, programming, walking, traveling, sleeping, etc.
 
 
 ## Skills 🛠️
