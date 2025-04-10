@@ -3,7 +3,7 @@
 - **gender**: He/Him
 - **location** Hokkaido, Japan
 - **profession** Beginner in programming
-- **hobbies** Reading, Gaming, Programming, Walking, Traveling
+- **hobbies** reading, gaming, programming, walking, traveling, sleeping, etc.
 
 
 ## Skills 🛠️
