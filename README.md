@@ -19,5 +19,5 @@
 - AWS (Planning to learn)
 
 ### Tools ⚙️
-- VS Code (1 month, Beginner)
+- VS Code (2 month, Beginner)
 
