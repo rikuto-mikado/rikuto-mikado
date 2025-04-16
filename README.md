@@ -9,8 +9,8 @@
 ## Skills 🛠️
 ### Languages & Runtimes 🐈
 - Python (2 months, Beginner)
-- HTML/CSS (2 month, Beginner)
-- Javascript (1 month, Beginner)
+- HTML/CSS (2 months, Beginner)
+- JavaScript (1 month, Beginner)
 - Node.js (1 month, beginner)
 - SQL (1 month, beginner)
 
@@ -19,5 +19,5 @@
 - AWS (Planning to learn)
 
 ### Tools ⚙️
-- VS Code (2 month, Beginner)
+- VS Code (2 months, Beginner)
 
