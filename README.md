@@ -6,18 +6,19 @@
 - **hobbies**: reading, gaming, programming, walking, traveling, sleeping, etc.
 
 
-## Skills 🛠️
-### Languages & Runtimes 🐈
-- Python (2 months, Beginner)
-- HTML/CSS (2 months, Beginner)
-- JavaScript (2 month, Beginner)
-- Node.js (1 month, beginner)
-- SQL (1 month, beginner)
+## 🛠️ Skills
+### 🐈 Languages & Runtimes
+- **Python** (5 months, Beginner)
+- **JavaScript** (5 months, Beginner)
+- **HTML/CSS** (5 months, Beginner)
+- **Node.js** (5 months, Beginner)
+- **EJS** (5 months, Beginner)
+- **Sass** (5 months, Beginner)
+- **SQL** (1 month, Beginner)
 
-### Technologies 🌐
-- React (1 month, Beginner)
-- AWS (Planning to learn)
+### 🌐 Technologies
+- **React** (5 months, Beginner)
+- **AWS** (Planning to learn)
 
-### Tools ⚙️
-- VS Code (2 months, Beginner)
-
+### ⚙️ Tools
+- **VS Code** (5 months, Beginner)
