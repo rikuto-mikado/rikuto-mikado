@@ -39,10 +39,10 @@
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikuto-mikado&theme=radical" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical" /></td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical" /></td>
+<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikuto-mikado&theme=radical" /></td>
 </tr>
 </table>
 
