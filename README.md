@@ -7,15 +7,7 @@
 - **hobbies**: reading, gaming, programming, walking, traveling, sleeping, etc.
 
 ## 🛠️ Tech Stack
-
-### Frontend Magic
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass" />
-
-### ⚙️ Backend Artistry  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,postman" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,postgres,postman,docker,git,github,vscode" />
 
 ## 📊 GitHub Stats
 <table>
