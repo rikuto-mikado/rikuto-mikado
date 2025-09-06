@@ -34,3 +34,11 @@
 
 ### ☁️ Cloud & DevOps
 - **AWS** (Planning to learn)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikuto-mikado&theme=react-dark)
