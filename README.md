@@ -43,7 +43,6 @@
 </tr>
 <tr>
 <td><img src="https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical&row=2&column=3" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikuto-mikado&theme=radical" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical" /></td>
 </tr>
 </table>
