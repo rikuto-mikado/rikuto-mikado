@@ -9,19 +9,13 @@
 ## 🛠️ Tech Stack
 
 ### Frontend Magic
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sass" />
 
 ### ⚙️ Backend Artistry  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,postman" />
 
 ### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 
 ## 📊 GitHub Stats
 <table>
