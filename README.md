@@ -23,6 +23,8 @@
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikuto-mikado&theme=react-dark)
 
-
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical&row=2&column=3)
+
+## 📜 Certificates
+<img width="600" alt="The Complete Python Bootcamp Certificate" src="https://github.com/user-attachments/assets/448e2348-36c0-4095-80cf-83a34e02eff5" />
