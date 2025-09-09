@@ -7,7 +7,7 @@
 - **hobbies**: reading, gaming, programming, walking, traveling, sleeping, etc.
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,bootstrap,postgres,wordpress,postman,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,flask,bootstrap,postgres,wordpress,postman,docker,git,github,vscode" />
 
 ## 📊 GitHub Stats
 <table>
