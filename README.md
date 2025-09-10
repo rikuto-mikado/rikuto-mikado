@@ -11,6 +11,7 @@ class Developer:
             "reading", "gaming", "programming", 
             "walking", "traveling", "sleeping"
         ]
+```
 
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,flask,bootstrap,postgres,sqlite,wordpress,vercel,figma,postman,docker,git,github,vscode" />
