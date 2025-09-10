@@ -1,10 +1,31 @@
 # Hi! Welcome to My GitHub! 👋
 
-- **name**: Rikuto
-- **gender**: He/Him  
-- **location**: Hokkaido, Japan
-- **profession**: Web Developer (Individual Business Owner)
-- **hobbies**: reading, gaming, programming, walking, traveling, sleeping, etc.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rikuto"
+        self.pronouns = "He/Him"
+        self.location = "Hokkaido, Japan"
+        self.profession = "Web Developer (Individual Business Owner)"
+        self.hobbies = [
+            "reading", "gaming", "programming", 
+            "walking", "traveling", "sleeping"
+        ]
+        self.currently_learning = ["Python", "Flask", "Data Science"]
+        self.tech_stack = ["JavaScript", "React", "Node.js", "Python"]
+        
+    def say_hello(self):
+        return f"Hi! I'm {self.name} from {self.location} 👋"
+        
+    def get_status(self):
+        return "Building awesome web applications and learning Python! 🚀"
+        
+    def contact_me(self):
+        return "Feel free to reach out for collaborations! 💬"
+
+me = Developer()
+print(me.say_hello())
+print(me.get_status())
 
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,flask,bootstrap,postgres,sqlite,wordpress,vercel,figma,postman,docker,git,github,vscode" />
