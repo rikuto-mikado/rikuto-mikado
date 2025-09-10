@@ -34,4 +34,4 @@ class Developer:
 ![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical&row=2&column=3)
 
 ## 📜 Certificates
-<img width="600" height="447" alt="The Complete Python Bootcamp Certificate" src="https://github.com/user-attachments/assets/7f487d10-a60b-4f13-9dbd-a3e143e44495" />
+![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
