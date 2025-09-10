@@ -28,10 +28,13 @@ class Developer:
 </table>
 
 ## 📈 Activity Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikuto-mikado&theme=react-dark)
 
 ## 🏆 GitHub Trophies
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical&row=2&column=3)
 
 ## 📜 Certificates
+
 ![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
