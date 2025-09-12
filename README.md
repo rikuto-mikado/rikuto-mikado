@@ -14,7 +14,7 @@ class Developer:
 ```
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,nodejs,express,python,flask,bootstrap,postgres,sqlite,wordpress,vercel,figma,postman,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,nodejs,express,python,flask,django,jupyter,bootstrap,postgres,sqlite,wordpress,gcp,vercel,figma,postman,docker,git,github,vscode" />
 
 ## 📊 GitHub Stats
 <table>
