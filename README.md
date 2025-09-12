@@ -14,7 +14,11 @@ class Developer:
 ```
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,nodejs,express,python,flask,django,jupyter,bootstrap,postgres,sqlite,wordpress,gcp,vercel,figma,postman,docker,git,github,vscode" />
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,nodejs,express,python,flask,django" height="40" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,postgres,sqlite,wordpress,gcp,vercel,figma,postman,docker,git,github,vscode" height="40" />
+</div>
 
 ## 📊 GitHub Stats
 <table>
