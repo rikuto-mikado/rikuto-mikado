@@ -17,15 +17,13 @@ class Developer:
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,nodejs,express,python,flask,django,bootstrap,postgres,sqlite,wordpress,gcp,vercel,figma,postman,docker,git,github,vscode" />
 
 ## 📊 GitHub Stats
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical&bg_color=0D1117" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikuto-mikado&theme=radical&background=0D1117" /></td>
-</tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikuto-mikado&theme=radical&background=0D1117"/>
+</p>
 
 ## 📈 Activity Graph
 
