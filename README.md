@@ -40,6 +40,12 @@ class Developer:
 <a href="https://jp.pinterest.com/rikutomikado/" target="_blank">
 <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
 </a>
+<a href="https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli?si=5da7491cda9d467c" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+<a href="https://www.udemy.com/user/rikuto-mikado/" target="_blank">
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+</a>
 </p>
 
 ## 📈 &nbsp;Activity Graph
