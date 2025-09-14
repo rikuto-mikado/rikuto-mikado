@@ -25,26 +25,26 @@ class Developer:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mikadorikuto@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/rikutomikado.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/rikutomikado.dev/">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61580617898631" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<a href="https://www.facebook.com/profile.php?id=61580617898631">
+<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://jp.pinterest.com/rikutomikado/" target="_blank">
-<img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+<a href="https://jp.pinterest.com/rikutomikado/">
+<img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli?si=5da7491cda9d467c" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+<a href="https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli?si=5da7491cda9d467c">
+<img src="https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="https://www.udemy.com/user/rikuto-mikado/" target="_blank">
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+<a href="https://www.udemy.com/user/rikuto-mikado/">
+<img src="https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
 </a>
 </p>
 
