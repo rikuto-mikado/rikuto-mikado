@@ -25,7 +25,6 @@ class Developer:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mikadorikuto@gmail.com"><img src="https://img.shields.io/badge/-mikadorikuto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/rikutomikado.dev/"><img src="https://img.shields.io/badge/-@rikutomikado.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=61580617898631"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
