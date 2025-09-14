@@ -25,27 +25,13 @@ class Developer:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mikadorikuto@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/rikutomikado.dev/">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=61580617898631">
-<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://jp.pinterest.com/rikutomikado/">
-<img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-<a href="https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli?si=5da7491cda9d467c">
-<img src="https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-<a href="https://www.udemy.com/user/rikuto-mikado/">
-<img src="https://img.shields.io/badge/-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mikadorikuto@gmail.com"><img src="https://img.shields.io/badge/-mikadorikuto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rikutomikado.dev/"><img src="https://img.shields.io/badge/-@rikutomikado.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61580617898631"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://jp.pinterest.com/rikutomikado/"><img src="https://img.shields.io/badge/-@rikutomikado-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli?si=5da7491cda9d467c"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-1ED760?style=flat&logo=Spotify&logoColor=white"/></a>
+<a href="https://www.udemy.com/user/rikuto-mikado/"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-EC5252?style=flat&logo=Udemy&logoColor=white"/></a>
 </p>
 
 ## 📈 &nbsp;Activity Graph
