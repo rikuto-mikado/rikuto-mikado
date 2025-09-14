@@ -25,11 +25,11 @@ class Developer:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:mikadorikuto@gmail.com"><img src="https://img.shields.io/badge/-mikadorikuto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rikutomikado.dev/"><img src="https://img.shields.io/badge/-@rikutomikado.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=61580617898631"><img src="https://img.shields.io/badge/-Rikuto%20Mikado-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://jp.pinterest.com/rikutomikado/"><img src="https://img.shields.io/badge/-@rikutomikado-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rikuto-mikado-1b0062356/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:mikadorikuto@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rikutomikado.dev/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61580617898631" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://jp.pinterest.com/rikutomikado/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="pinterest" height="30" width="40" /></a>
 </p>
 
 ## 📈 &nbsp;Activity Graph
