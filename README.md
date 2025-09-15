@@ -48,4 +48,4 @@ class Developer:
 
 ## 🗺️ &nbsp;Roadmap
 
-![Future Plan](https://github.com/user-attachments/assets/668bc076-317a-4ba1-b459-4650ad4956a0)
+<img src="https://github.com/user-attachments/assets/668bc076-317a-4ba1-b459-4650ad4956a0" width="400"/>
