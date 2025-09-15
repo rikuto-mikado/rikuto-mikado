@@ -46,6 +46,6 @@ class Developer:
 
 ![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
 
-## 🐍 &nbsp;Contribution Snake
+## 🎵 &nbsp;Currently Playing
 
-![Snake animation](https://github.com/rikuto-mikado/rikuto-mikado/blob/output/github-contribution-grid-snake.svg)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ziidnuokqdfrdhwhyug37jxbli&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31ziidnuokqdfrdhwhyug37jxbli&redirect=true)
