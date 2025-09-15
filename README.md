@@ -46,6 +46,6 @@ class Developer:
 
 ![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
 
-## ✨ &nbsp;About Me
+## 🗺️ &nbsp;Roadmap
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Individual+Business+Owner;Based+in+Hokkaido%2C+Japan)](https://git.io/typing-svg)
+![Future Plan](https://github.com/user-attachments/assets/668bc076-317a-4ba1-b459-4650ad4956a0)
