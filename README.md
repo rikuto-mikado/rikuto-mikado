@@ -46,6 +46,6 @@ class Developer:
 
 ![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
 
-## 💻 &nbsp;Most Used Languages
+## 👀 &nbsp;Profile Views
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=donut&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=rikuto-mikado&color=brightgreen&style=flat-square&label=Profile+Views)
