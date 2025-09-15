@@ -49,3 +49,7 @@ class Developer:
 ## 🎵 &nbsp;Currently Playing
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ziidnuokqdfrdhwhyug37jxbli)
+
+## 🌤️ &nbsp;Current Weather in Hokkaido
+
+![Weather](https://wttr.in/Hokkaido.png?0&theme=dark)
