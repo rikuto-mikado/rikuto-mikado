@@ -40,12 +40,9 @@ class Developer:
 
 ## 🏆 &nbsp;GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical)
 
 ## 📜 &nbsp;Certificates
 
 ![The Complete Python Bootcamp Certificate](https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67)
 
-## 🗺️ &nbsp;Roadmap
-
-<img src="https://github.com/user-attachments/assets/668bc076-317a-4ba1-b459-4650ad4956a0" width="400"/>
