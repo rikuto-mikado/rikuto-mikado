@@ -22,6 +22,10 @@ class Developer:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
 </p>
 
+## 🏆 &nbsp;GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical)
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -37,10 +41,6 @@ class Developer:
 ## 📈 &nbsp;Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikuto-mikado&theme=react-dark)
-
-## 🏆 &nbsp;GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical)
 
 ## 📜 &nbsp;Certificates
 
