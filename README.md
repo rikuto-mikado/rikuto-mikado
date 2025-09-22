@@ -7,7 +7,8 @@ class Developer:
         self.pronouns = "He/Him"
         self.location = "Hokkaido, Japan"
         self.profession = "Full-Stack Developer (Individual Business Owner)"
-        self.status = "🎓 Preparing for university | Focused on IELTS study"
+        self.status = "Preparing for university | Focused on IELTS study"
+        self.dream = "Living in the countryside and pursuing agriculture"
         self.hobbies = [
             "reading", "gaming", "programming", 
             "walking", "traveling", "sleeping"
