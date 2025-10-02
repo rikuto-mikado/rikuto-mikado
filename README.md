@@ -47,7 +47,6 @@ class Developer:
 ## 📜 &nbsp;Certificates
 
 <p align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/ddfbb62c-40f6-4068-a5e6-dc333ed2bc67" alt="The Complete Python Bootcamp Certificate" />
-  <img width="45%" src="https://github.com/user-attachments/assets/f9a65104-1f59-436c-b87e-427330d5c1fb" alt="The Complete Full-Stack Web Development Bootcamp Certificate" />
-  
+  <img width="45%" src="https://github.com/user-attachments/assets/22f2608a-ac24-45f3-ab1a-ea7033e72d7e" alt="The Complete Python Bootcamp Certificate" />
+  <img width="45%" src="https://github.com/user-attachments/assets/68d869ad-baee-40f2-9985-a8216a75dde4" alt="The Complete Full-Stack Web Development Bootcamp Certificate" />
 </p>
