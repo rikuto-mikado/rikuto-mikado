@@ -6,19 +6,21 @@ class Developer:
         self.name = "Rikuto"
         self.pronouns = "He/Him"
         self.location = "Hokkaido, Japan"
-        self.profession = "Full-Stack Developer (Individual Business Owner)"
-        self.status = "Preparing for university | Focused on IELTS study"
+        self.profession = "Full-Stack Developer"
+        self.status = "Preparing for university
         self.dream = "Living in the countryside and pursuing agriculture"
         self.hobbies = [
-            "reading", "gaming", "programming", 
+            "reading", "gaming", "programming",
             "walking", "traveling", "sleeping"
         ]
 ```
 
 ## 🛠️ &nbsp;Tech Stack
+
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,tailwind,nodejs,express,vite,python,flask,django,bootstrap,postgres,sqlite,wordpress,gcp,vercel,figma,postman,docker,git,github,vscode" />
 
 ## 📊 &nbsp;GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
