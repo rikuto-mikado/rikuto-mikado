@@ -26,10 +26,6 @@ class Developer:
   <img height="180em" src="https://github-readme-stats-zeta-ruddy-28.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
 </p>
 
-## 🏆 &nbsp;GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical)
-
 ## 📜 &nbsp;Certificates
 
 <p align="center">
