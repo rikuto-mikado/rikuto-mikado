@@ -22,17 +22,13 @@ class Developer:
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-zeta-ruddy-28.vercel.app/api?username=rikuto-mikado&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-zeta-ruddy-28.vercel.app/api/top-langs/?username=rikuto-mikado&layout=compact&theme=radical&bg_color=0D1117&langs_count=8"/>
 </p>
 
 ## 🏆 &nbsp;GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rikuto-mikado&theme=radical)
-
-## 📈 &nbsp;Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikuto-mikado&theme=react-dark)
 
 ## 📜 &nbsp;Certificates
 
