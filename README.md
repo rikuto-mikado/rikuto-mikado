@@ -31,4 +31,5 @@ class Developer:
 <p align="center">
   <img width="45%" src="https://github.com/user-attachments/assets/22f2608a-ac24-45f3-ab1a-ea7033e72d7e" alt="The Complete Python Bootcamp Certificate" />
   <img width="45%" src="https://github.com/user-attachments/assets/68d869ad-baee-40f2-9985-a8216a75dde4" alt="The Complete Full-Stack Web Development Bootcamp Certificate" />
+  <img width="45%" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6351103f-f538-46ec-87d1-89c03fc7ffec.jpg" alt="Udemy Certificate" />
 </p>
