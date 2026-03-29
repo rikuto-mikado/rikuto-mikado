@@ -6,8 +6,7 @@ class Developer:
         self.name = "Rikuto"
         self.pronouns = "He/Him"
         self.location = "Hokkaido, Japan"
-        self.profession = "Full-Stack Developer"
-        self.status = "Preparing for university
+        self.status = "Future Uni student in Latvia"
         self.dream = "Living in the countryside and pursuing agriculture"
         self.hobbies = [
             "reading", "gaming", "programming",
