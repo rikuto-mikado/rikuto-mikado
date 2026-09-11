@@ -3,14 +3,23 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Rikuto"
+        self.name = "Rikuto Mikado"
         self.pronouns = "He/Him"
         self.location = "Hokkaido, Japan"
-        self.status = "Uni student in Latvia"
+        self.status = "Preparing for Electrical & Construction Engineering school"
+        self.strategy = "Securing a ticket to blue-collar trades as a hedge against AGI disruption"
+        self.academic_goals = [
+            "Earn Bachelor's & Master's degrees",
+            "Prepare for IELTS & achieve target score",
+        ]
         self.dream = "Live in the countryside"
         self.hobbies = [
-            "reading", "gaming", "programming",
-            "walking", "traveling", "sleeping"
+            "Gaming",
+            "Walking & strolling",
+            "Strength training (Workout)",
+            "Continuous learning (books & research papers)",
+            "Exploring unfamiliar places",
+            "Spending time in solitude",
         ]
 ```
 
