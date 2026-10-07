@@ -12,7 +12,7 @@ class Developer:
             "Earn Bachelor's & Master's degrees",
             "Prepare for IELTS & achieve target score",
         ]
-        self.dream = "Live in the countryside"
+        self.dream = "Live in the countryside with a cat"
         self.hobbies = [
             "Gaming",
             "Walking & strolling",
